@@ -1,0 +1,7 @@
+ls
+pwd 
+man ls
+touch  1.txt
+ls -al
+cat  1.txt
+echo "hello" > 1.txt
